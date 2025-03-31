@@ -1,3 +1,6 @@
+In apply_preset.php or character_create.php:
+Stats Generator
+
 ```
 require_once '../engine/stat_generator.php';
 
